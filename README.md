@@ -1,6 +1,6 @@
 > Most detailed Activity Log with User Tracking, Immediate Logout and Activity Control based on specific criteria, lock, block, email alert, hide etc.
 
-# Activity Log WordPress Plugin WInterLock
+# Activity Log WordPress Plugin WinterLock
 
 **How to Install?**
 
