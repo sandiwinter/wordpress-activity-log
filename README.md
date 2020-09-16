@@ -1,14 +1,13 @@
-Most detailed Activity Log with User Tracking, Immediate Logout and Activity Control based on specific criteria, lock, block, email alert, hide etc.
+> Most detailed Activity Log with User Tracking, Immediate Logout and Activity Control based on specific criteria, lock, block, email alert, hide etc.
 
-== Description ==
+# Activity Log WordPress Plugin WInterLock
 
-###Activity Log WordPress Plugin WInterLock
+**How to Install?**
 
-How to Install?
+> Go to your WP Dashboard -> Plugins -> Add New and search for WinterLock
 
-Go to your WP Dashboard -> Plugins -> Add New and search for WinterLock
+[![Alt text](https://img.youtube.com/vi/VWI1WvlQQa8/0.jpg)](https://www.youtube.com/watch?v=VWI1WvlQQa8)
 
-[youtube https://www.youtube.com/watch?v=VWI1WvlQQa8]
 
 New most detailed <strong>WordPress User Tracking</strong>, Control and <strong>Activity Logging Plugin</strong>.
 
@@ -26,7 +25,7 @@ If you have any trouble or suggestion feel free to contact us, we always looking
 
 Now we have also official website: <a href="https://activity-log.com/">https://activity-log.com/</a>
 
-###Activity Log Standard Features:
+## Activity Log Standard Features:
 
 *   Very detailed activity log
 *   Detail Search Filters
@@ -46,7 +45,7 @@ Now we have also official website: <a href="https://activity-log.com/">https://a
 *   View changes in posts revision
 *   Will log all activities in any plugin
 
-###Activity Log Premium features:
+## Activity Log Premium features:
 
 *   All level logs
 *   Email Notifications
@@ -65,16 +64,16 @@ Now we have also official website: <a href="https://activity-log.com/">https://a
 *   Automatically disable brute force attack on login forms
 *   Export User Login Time and Session Time in WordPress
 
-== Installation ==
+### Installation
 
 1. Visit 'Plugins > Add New'
 1. Search for 'WinterLock Activity Log'
 1. Install and activate the WinterLock plugin
 
-== Update ==
+### Update
 1. Go to Dashboard, Update
 
-== Frequently Asked Questions ==
+### Frequently Asked Questions
 
 = What does this plugin do better then other? =
 
@@ -90,36 +89,36 @@ Not related to other plugin, because logging in low level under WordPress
 
 And much more...
 
-= How to hide specific requests =
+**How to hide specific requests**
 
 Click on WinterLock->Activity Log->Click on Eye icon for wanted log->Define rules and click save
 
-= How to detect changes in files =
+**How to detect changes in files**
 
 Activity Log will detect all file changes inside WordPress in WinterLock->Activity Log, clicking on view you can see user posted file data in parameters
 
-= How to detect who deactivate which plugin =
+**How to detect who deactivate which plugin**
 
 Activity Log will detect all plugin activations and deactivations inside WordPress in WinterLock->Activity Log, clicking on view you can see user and plugi nrelated data in parameters
 
-= You need support? =
+**You need support?**
 
 Inside Activity Log plugin, so clicking on WinterLock->Contact you can ask for support or
 
 If you have any trouble or suggestion feel free to contact us, we always looking for improvements: support@swit.hr
 
-= Will be logs stored in my database? =
+**Will be logs stored in my database?**
 
 Yes all Activity logs will be stored in optimized custom tables, with performance in mind
 
 In premium version you can also export, report or store in Cloud
 
-= Are there any issues installing this plugin? =
+**Are there any issues installing this plugin?**
 
 No, we don't know for any issue right now, but if you found any, please inform us immediately, we will do our best to solve it as soon possible
 
 
-== Changelog ==
+### Changelog
 
 = 1.0.10 =
 * Fix with date fields in report
