@@ -4,7 +4,7 @@
 
 **How to Install?**
 
-> Go to your WP Dashboard -> Plugins -> Add New and search for WinterLock
+> Go to your WP Dashboard -> Plugins -> Add New -> Search for "WinterLock"
 
 [![Alt text](https://img.youtube.com/vi/VWI1WvlQQa8/0.jpg)](https://www.youtube.com/watch?v=VWI1WvlQQa8)
 
